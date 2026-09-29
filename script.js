@@ -23,7 +23,7 @@ let products = [
         name: "Atomic Habits",
         price: 450,
         category: "books",
-        image: "images/book1.jpg"
+        image: "book1.jpg"
     },
 
     {
@@ -31,7 +31,7 @@ let products = [
         name: "Rich Dad Poor Dad",
         price: 350,
         category: "books",
-        image: "images/book2.jpg"
+        image: "book2.jpg"
     },
 
     {
@@ -39,7 +39,7 @@ let products = [
         name: "The Power of Habit",
         price: 400,
         category: "books",
-        image: "images/book3.jpg"
+        image: "book3.jpg"
     },
 
     {
@@ -47,7 +47,7 @@ let products = [
         name: "Ikigai",
         price: 399,
         category: "books",
-        image: "images/book4.jpg"
+        image: "book4.jpg"
     },
 
     {
@@ -55,7 +55,7 @@ let products = [
         name: "Think and Grow Rich",
         price: 299,
         category: "books",
-        image: "images/book5.jpg"
+        image: "book5.jpg"
     },
 
     {
@@ -63,7 +63,7 @@ let products = [
         name: "The Alchemist",
         price: 320,
         category: "books",
-        image: "images/book6.jpg"
+        image: "book6.jpg"
     },
 
     {
@@ -71,7 +71,7 @@ let products = [
         name: "Computer Fundamentals",
         price: 500,
         category: "books",
-        image: "images/book7.jpg"
+        image: "book7.jpg"
     },
 
     {
@@ -79,7 +79,7 @@ let products = [
         name: "Java Programming",
         price: 550,
         category: "books",
-        image: "images/book8.jpg"
+        image: "book8.jpg"
     },
 
     {
@@ -87,7 +87,7 @@ let products = [
         name: "Python Programming",
         price: 600,
         category: "books",
-        image: "images/book9.jpg"
+        image: "book9.jpg"
     },
 
     {
@@ -95,7 +95,7 @@ let products = [
         name: "HTML and CSS",
         price: 450,
         category: "books",
-        image: "images/book10.jpg"
+        image: "book10.jpg"
     },
 
 
@@ -106,7 +106,7 @@ let products = [
         name: "Men's T-Shirt",
         price: 599,
         category: "clothes",
-        image: "images/clothes1.jpg"
+        image: "clothes1.jpg"
     },
 
     {
@@ -114,7 +114,7 @@ let products = [
         name: "Formal Shirt",
         price: 899,
         category: "clothes",
-        image: "images/clothes2.jpg"
+        image: "clothes2.jpg"
     },
 
     {
@@ -122,7 +122,7 @@ let products = [
         name: "Casual Shirt",
         price: 799,
         category: "clothes",
-        image: "images/clothes3.jpg"
+        image: "clothes3.jpg"
     },
 
     {
@@ -130,7 +130,7 @@ let products = [
         name: "Blue Jeans",
         price: 1199,
         category: "clothes",
-        image: "images/clothes4.jpg"
+        image: "clothes4.jpg"
     },
 
     {
@@ -138,7 +138,7 @@ let products = [
         name: "Black Jeans",
         price: 1299,
         category: "clothes",
-        image: "images/clothes5.jpg"
+        image: "clothes5.jpg"
     },
 
     {
@@ -146,7 +146,7 @@ let products = [
         name: "Hoodie",
         price: 999,
         category: "clothes",
-        image: "images/clothes6.jpg"
+        image: "clothes6.jpg"
     },
 
     {
@@ -154,7 +154,7 @@ let products = [
         name: "Jacket",
         price: 1499,
         category: "clothes",
-        image: "images/clothes7.jpg"
+        image: "clothes7.jpg"
     },
 
     {
@@ -162,7 +162,7 @@ let products = [
         name: "Polo T-Shirt",
         price: 699,
         category: "clothes",
-        image: "images/clothes8.jpg"
+        image: "clothes8.jpg"
     },
 
     {
@@ -170,7 +170,7 @@ let products = [
         name: "Track Pants",
         price: 799,
         category: "clothes",
-        image: "images/clothes9.jpg"
+        image: "clothes9.jpg"
     },
 
     {
@@ -178,7 +178,7 @@ let products = [
         name: "Kurta",
         price: 999,
         category: "clothes",
-        image: "images/clothes10.jpg"
+        image: "clothes10.jpg"
     },
 
 
@@ -189,7 +189,7 @@ let products = [
         name: "Casio Calculator",
         price: 850,
         category: "electronics",
-        image: "images/electronic1.jpg"
+        image: "electronic1.jpg"
     },
 
     {
@@ -197,7 +197,7 @@ let products = [
         name: "Wireless Headphones",
         price: 1299,
         category: "electronics",
-        image: "images/electronic2.jpg"
+        image: "electronic2.jpg"
     },
 
     {
@@ -205,7 +205,7 @@ let products = [
         name: "Smart Watch",
         price: 1999,
         category: "electronics",
-        image: "images/electronic3.jpg"
+        image: "electronic3.jpg"
     },
 
     {
@@ -213,7 +213,7 @@ let products = [
         name: "Bluetooth Speaker",
         price: 999,
         category: "electronics",
-        image: "images/electronic4.jpg"
+        image: "electronic4.jpg"
     },
 
     {
@@ -221,7 +221,7 @@ let products = [
         name: "Computer Mouse",
         price: 499,
         category: "electronics",
-        image: "images/electronic5.jpg"
+        image: "electronic5.jpg"
     },
 
     {
@@ -229,7 +229,7 @@ let products = [
         name: "Keyboard",
         price: 699,
         category: "electronics",
-        image: "images/electronic6.jpg"
+        image: "electronic6.jpg"
     },
 
     {
@@ -237,7 +237,7 @@ let products = [
         name: "Power Bank",
         price: 899,
         category: "electronics",
-        image: "images/electronic7.jpg"
+        image: "electronic7.jpg"
     },
 
     {
@@ -245,7 +245,7 @@ let products = [
         name: "USB Flash Drive",
         price: 599,
         category: "electronics",
-        image: "images/electronic8.jpg"
+        image: "electronic8.jpg"
     },
 
     {
@@ -253,7 +253,7 @@ let products = [
         name: "Webcam",
         price: 1499,
         category: "electronics",
-        image: "images/electronic9.jpg"
+        image: "electronic9.jpg"
     },
 
     {
@@ -261,7 +261,7 @@ let products = [
         name: "Wireless Earbuds",
         price: 1599,
         category: "electronics",
-        image: "images/electronic10.jpg"
+        image: "electronic10.jpg"
     }
 
 ];
